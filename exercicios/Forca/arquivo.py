@@ -6,7 +6,7 @@ class Arquivo:
         self._arquivo = arquivo
         self._dict_palavras = {}
         if isfile(self._arquivo):
-            with open(self._arquivo) as arq:
+            with open(self._arquivo, encoding="utf-8") as arq:
                 for linha in arq:
                     palavra, dica = tuple(linha.strip().split(":"))
                     self._dict_palavras[palavra] = dica
@@ -35,10 +35,13 @@ class Arquivo:
         dica = self._dict_palavras[palavra]
         return palavra, dica
     
-    def escrever_palavra(self, palavra, dica=''):        
-        with open(self._arquivo, "a", encoding="utf-8") as arq:
-            arq.write(palavra.upper()+":"+dica+"\n")
-            return True
+    def escrever_palavra(self, palavra, dica=''):
+        if palavra not in self._dict_palavras.keys():    
+            with open(self._arquivo, "a", encoding="utf-8") as arq:
+                arq.write(palavra.upper()+":"+dica+"\n")
+                return True
+        print("Palavra já cadastrada!")
+        return False
     
     @staticmethod
     def criar_arquivo(nome_arquivo):

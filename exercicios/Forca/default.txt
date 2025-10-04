@@ -1,8 +1,207 @@
 ALTRUISTA:Quem faz o bem
-MALIGNO:Que é do mal
-OTIMISTA:Quem tem visão excessivamente positiva sobre assuntos da vida
+MALIGNO:Que e do mal
+OTIMISTA:Quem tem visao excessivamente positiva sobre assuntos da vida
 ESPOSA:transforma o lar
 ALO:usada para atender chamadas
-NAVIO:embarcação maritima
-ALFABETO:Lista de simbolos que contém significado
-NUVEM:Flutua no céu
+NAVIO:embarcacao maritima
+ALFABETO:Lista de simbolos que contem significado
+NUVEM:Flutua no ceu
+CACHORRO:Animal domestico
+GATO:Animal independente
+ELEFANTE:Maior animal terrestre
+GIRAFA:Pescoco comprido
+LEAO:Rei da selva
+TIGRE:Felino listrado
+COBRA:Reptil rastejante
+PEIXE:Vive na agua
+TUBARAO:Predador marinho
+GOLFINHO:Inteligente do mar
+PAPAGAIO:Repete palavras
+GALINHA:Bota ovos
+CAVALO:Usado em corridas
+PORCO:Animal do chiqueiro
+OVELHA:Fornece la
+ABELHA:Produz mel
+FORMIGA:Inseto trabalhador
+ARANHA:Oito patas
+SAPO:Pula e coaxar
+JACARE:Reptil do pantano
+BANANA:Fruta amarela
+MACA:Fruta vermelha
+PERA:Fruta em forma de gota
+UVA:Fruta em cacho
+ABACAXI:Fruta tropical
+MORANGO:Fruta vermelha pequena
+MELANCIA:Fruta verde e vermelha
+LARANJA:Fruta citrica
+LIMAO:Fruta azeda
+COCO:Fruta do coqueiro
+TOMATE:Vermelho e suculento
+CENOURA:Raiz laranja
+BATATA:Tuberculo comum
+MILHO:Graos amarelos
+ARROZ:Grao branco
+FEIJAO:Grao brasileiro
+PIZZA:Comida italiana
+HAMBURGUER:Sanduiche famoso
+PAO:Feito de trigo
+BOLO:Doce de festa
+SORVETE:Doce gelado
+CHOCOLATE:Doce de cacau
+CAFe:Bebida energizante
+CHA:Bebida quente
+LEITE:Vem da vaca
+AGUA:Bebida vital
+CARRO:Veiculo de quatro rodas
+MOTO:Veiculo de duas rodas
+BICICLETA:Transporte a pedal
+AVIaO:Voa no ceu
+NAVIO:Transporte maritimo
+ONIBUS:Transporte coletivo
+TREM:Corre nos trilhos
+CAMINHAO:Transporte de carga
+CASA:Onde se mora
+APARTAMENTO:Tipo de moradia
+ESCOLA:Local de estudo
+IGREJA:Local religioso
+HOSPITAL:Atende doentes
+BANCO:Guarda dinheiro
+LOJA:Vende produtos
+MERCADO:Vende alimentos
+PRAIA:Areia e mar
+MONTANHA:Elevacao da terra
+RIO:Curso de agua
+LAGO:Agua parada
+FLORESTA:Muitas arvores
+DESERTO:Quente e seco
+ILHA:Cercada de agua
+PLANETA:Corpo celeste
+SOL:Estrela central
+LUA:Satelite da Terra
+ESTRELA:Brilha no ceu
+NUBE:No ceu
+CHUVA:Agua que cai
+VENTO:Ar em movimento
+NEVE:Agua congelada
+FOGO:Calor intenso
+TERRA:Planeta azul
+MARTE:Planeta vermelho
+JUPITER:Maior planeta
+SATURNO:Tem aneis
+URANO:Planeta gelado
+NETUNO:Planeta azul escuro
+VENUS:Planeta brilhante
+MERCURIO:Mais proximo do sol
+COMETA:Cauda luminosa
+ASTEROIDE:Rochas espaciais
+GALAXIA:Conjunto de estrelas
+ROBO:Maquina inteligente
+COMPUTADOR:Processa dados
+CELULAR:Aparelho de bolso
+TELEVISaO:Mostra imagens
+INTERNET:Rede mundial
+JOGO:Diversao digital
+FUTEBOL:Esporte com bola
+BASQUETE:Bola na cesta
+TENIS:Raquete e bola
+XADREZ:Jogo de estrategia
+CARTA:Jogo de baralho
+DADO:Objeto numerado
+QUIXOTE:Personagem literario
+PNEUMONIA:Doenca respiratoria
+HIPOPOTAMO:Animal grande africano
+ESFINGE:Monumento egipcio
+PSICOLOGO:Estuda mente
+NEUROSE:Disturbio mental
+OCEANOGRAFIA:Estudo dos oceanos
+ARQUIPELAGO:Conjunto de ilhas
+CATACLISMO:Grande desastre
+CATASTROFE:Desgraca repentina
+DICOTOMIA:Divisao em opostos
+PARADIGMA:Modelo conceitual
+EQUILIBRIO:Estabilidade
+SINTAXE:Regras da linguagem
+MORFOLOGIA:Forma das palavras
+PRONOME:Classe gramatical
+OXITONA:Palavra com ultima silaba forte
+PAROXITONA:Silaba forte na penultima
+PROPAROXITONA:Silaba forte na antepenultima
+ANTONIMO:Palavra contraria
+SINONIMO:Palavra semelhante
+ETIMOLOGIA:Origem das palavras
+LITURGIA:Rito religioso
+ICONOCLASTA:Contrario a icones
+IDIOSINCRASIA:Caracteristica unica
+MELANCOLIA:Tristeza profunda
+NOSTALGIA:Saudade intensa
+EPIFANIA:Revelacao subita
+ANACRONISMO:Fora do tempo
+UCRONIA:Tempo alternativo
+DISTOPIA:Sociedade ruim
+UTOPIA:Sociedade perfeita
+APOCRIFO:Texto duvidoso
+METAFISICA:Alem da fisica
+ONTOLOGIA:Estudo do ser
+COSMOLOGIA:Estudo do universo
+TEOLOGIA:Estudo de Deus
+AXIOLOGIA:Estudo dos valores
+EPISTEMOLOGIA:Estudo do conhecimento
+HEURISTICA:Descoberta pratica
+ALGORITMO:Sequencia logica
+HIPERBOLE:Exagero literario
+METONIMIA:Figura de linguagem
+EUPHEMISO:Efeito suavizador
+SINEDOQUE:Parte pelo todo
+ANAFORA:Repeticao inicial
+ALITERACAO:Repeticao de sons
+ONOMATOPEIA:Som imitado
+ZEUGMA:Omissao de termo
+PLEONASMO:Redundância
+ANFITRIaO:Dono da casa
+CICLOPE:Monstro de um olho
+MINOTAURO:Monstro grego
+HIDRA:Serpente mitologica
+CERBERO:Cao de tres cabecas
+PEGASO:Cavalo alado
+QUIRINO:Deus romano
+JANUS:Deus de duas faces
+ODISSEIA:Viagem epica
+ILIADA:Obra de Homero
+TRAGEDIA:Drama triste
+COMEDIA:Peca engracada
+SONETO:Poema classico
+HAICAI:Poema curto japones
+ELEGIA:Poema de lamento
+ODE:Poema de exaltacao
+SaTIRA:Texto de critica
+EPIGRAMA:Frase curta
+NEBULOSA:Nuvem cosmica
+SUPERNOVA:Explosao estelar
+BURACONEGRO:Forca gravitacional
+QUASAR:Fonte luminosa
+NEUTRINO:Particula subatômica
+PROTON:Particula positiva
+NEUTRON:Particula neutra
+ELETRON:Particula negativa
+QUARK:Particula fundamental
+FOTON:Particula de luz
+ISOTOPOS:Versoes do atomo
+RADIAcaO:Emissao de energia
+ENTROPIA:Desordem termica
+CRONOMETRO:Mede tempo
+ANEMOMETRO:Mede vento
+BAROMETRO:Mede pressao
+HIGROMETRO:Mede umidade
+TELESCOPIO:Observa estrelas
+MICROSCOPIO:Observa pequenos
+OSCILOSCOPIO:Mede ondas
+PLANISFERIO:Mapa celeste
+ASTROLABIO:Instrumento antigo
+CALIGRAFIA:Escrita bela
+CRIPTOGRAFIA:Escrita secreta
+TAQUIGRAFIA:Escrita rapida
+ICONOGRAFIA:Estudo das imagens
+TOPONIMIA:Nomes de lugares
+ANTROPOLOGIA:Estudo do homem
+PALEONTOLOGIA:Fosseis
+ARQUEOLOGIA:Ruinas antigas
