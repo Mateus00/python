@@ -4,3 +4,5 @@ OTIMISTA:Quem tem visão excessivamente positiva sobre assuntos da vida
 ESPOSA:transforma o lar
 ALO:usada para atender chamadas
 NAVIO:embarcação maritima
+ALFABETO:Lista de simbolos que contém significado
+NUVEM:Flutua no céu

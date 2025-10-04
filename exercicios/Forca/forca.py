@@ -71,7 +71,8 @@ if __name__ == "__main__":
     else:
         p, d = lista_palavras.sorteia_palavra()
         palavra = Palavra(p, d)
-        
+    
+    print(lista_palavras.show())
     forca = Forca(palavra)
     forca.jogar()
     
